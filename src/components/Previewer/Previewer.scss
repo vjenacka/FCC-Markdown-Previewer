@@ -2,9 +2,8 @@
 @import '../../scss/mixins.scss';
 
 .preview{
-    width: 55%;
-    height: 60vh;
-    margin: 10vh auto;
+    width: 45%;
+    max-height: 90vh;
 
     .header{
         @include header
@@ -12,8 +11,9 @@
 
     #preview{
         width: 100%;
-        height:100%;
-        padding: 5px;
+        height: 100%;
+        padding: 10px 25px;
+        overflow-y:auto;
         background-color: $main-light;
     }
 }

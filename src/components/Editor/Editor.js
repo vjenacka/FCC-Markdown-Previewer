@@ -12,7 +12,7 @@ export class Editor extends Component {
           <i className="fas fa-edit" />
           <span>Editor</span>
         </div>
-        <textarea onChange={this.handleChange} id='editor'/>
+        <textarea onChange={this.handleChange} id='editor' value={this.props.markdown}/>
       </div>
     );
   }
