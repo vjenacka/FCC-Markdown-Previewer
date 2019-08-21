@@ -1,0 +1,19 @@
+@import '../../scss/variables.scss';
+@import '../../scss/mixins.scss';
+
+.preview{
+    width: 55%;
+    height: 60vh;
+    margin: 10vh auto;
+
+    .header{
+        @include header
+    }
+
+    #preview{
+        width: 100%;
+        height:100%;
+        padding: 5px;
+        background-color: $main-light;
+    }
+}
