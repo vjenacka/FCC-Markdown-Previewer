@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FCC-Markdown-Previewer/static/css/main.1b9d565f.chunk.css",
+    "main.js": "/FCC-Markdown-Previewer/static/js/main.cb8cf48d.chunk.js",
+    "main.js.map": "/FCC-Markdown-Previewer/static/js/main.cb8cf48d.chunk.js.map",
+    "runtime~main.js": "/FCC-Markdown-Previewer/static/js/runtime~main.e60a2e2c.js",
+    "runtime~main.js.map": "/FCC-Markdown-Previewer/static/js/runtime~main.e60a2e2c.js.map",
+    "static/js/2.dad938c6.chunk.js": "/FCC-Markdown-Previewer/static/js/2.dad938c6.chunk.js",
+    "static/js/2.dad938c6.chunk.js.map": "/FCC-Markdown-Previewer/static/js/2.dad938c6.chunk.js.map",
+    "index.html": "/FCC-Markdown-Previewer/index.html",
+    "precache-manifest.025cca29bc58d719e0f987128f7a597a.js": "/FCC-Markdown-Previewer/precache-manifest.025cca29bc58d719e0f987128f7a597a.js",
+    "service-worker.js": "/FCC-Markdown-Previewer/service-worker.js",
+    "static/css/main.1b9d565f.chunk.css.map": "/FCC-Markdown-Previewer/static/css/main.1b9d565f.chunk.css.map"
+  }
+}
